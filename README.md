@@ -1,4 +1,4 @@
-# Deployment status
+# AirLume - The One Stop Solution for Your Air Quality Measurement Solutions
 
 The active `AirLumeSerial` sketch addresses **200 pixels** and applies a **1,000 mA estimated strip-current budget**, with 150/255 day / 8/255 Night brightness targets. The user reports that a separate 5 V strip supply is connected and approved uploading this configuration. It was uploaded on November 15, 2026; flash verification passed, and live serial diagnostics reported GPIO2, 200 RGB pixels and the 1,000 mA estimated budget. The PM warning layout now shows a full-width PM heading, readable status and value, the yellow and red thresholds in text, and a bar with its marker at the red threshold. A prior restart reading was 75.42 F while settling; the single-point offset is not proof of completed calibration.
 
